@@ -42,14 +42,15 @@
 广东民生,
 广东体育,https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=1b710ced576a7478a26376c01249552f-pmLyF0G6FYk7qNbNs0Mv1npnizSb3ZQBQ7gFe0yq0MC%2Bj%2Fcwt3RGbfGOjYqJwwtB5osuYFP4EBnx2Kq7DoAv0QIpooXO9iayVi3WDIRhbGkAtk%2Bc3tNK6nbQ3K9HT%2F7ZWIw94CVvXnt0xpoROBPl9QUatdS7%2B97%2B3G3ebFV1PAXr6bNvaxkHNhS0a4wr9Od5gO2D2VrKI9eRJD3VRfsH%2BkhdWFYw51Olh7uvqLIhW%2FVO77Eg7jO20flI0tFTCP%2B7ZDXFJpFCDUnarVTizducwNNZnzc9%2BTvdz9nXeRogta14N2hxWChpARt9520xECRKRxieigSp6a5A%2F77BHOlICEBj08DE1vv2iM%2FGkoRzsgejfD%2BYyoNp3Vnf6Hd3MftcEDGim64rQMztFmD9yphtk4Yzee%2FVOZHaSq%2BIRdclZFd6Qd7UiMsfqlvmk1u3gr1J
 
-经济科教,https://tcdn.itouchtv.cn/live/jjkj.m3u8?t_token=32d29563b1fbd15c374bcd6d1fa96971-iaqpdQRqy2MkrZ2vNSxtpXrx6ZuNJLdO447D4tW8dudc9AWaSFfEcYoHe0a3xPPkWDLw7UE%2BQTgOGN0hgY5kzciaRzuWSN9Lva5fXx0zL5UGipi9W5k8CIpXpIkvAlxeHfFyOjCfLGXjCQolcI0lV2heKcOHQMoaOb2FXVQ53gBoog0zI8Utr1S080T1htg%2Fd8dEIX3rflsPjkDJ1lF%2BSaYhxJRu8T%2B7%2FPBK6qsxZ%2B8nz8vg0KPXq9qFNhu%2BlFbtUQYmKMsP5q2zsOX6I1FmY1oAJRVF1UTqWQAS5Om%2FIrcr2yxJRJA%2B%2B53HyPFYnkuK%2BoE7Tg1bnsxUKqnHeMqeuw3SdMheEDSZK9HFIjHXKKyRuqjf3a5lqlCo5SMc4t7C
+经济科教,
 经济科教,
 经济科教,
 
-广东影视,https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=7ccdf298a7fc00aa9fd923f713ab382c-GDoYzCFy%2FxluwUPkHcuvL5JgZN7368cfWGuIXkEV0MM9Ah%2BeV%2FrEgei%2FzB4UGEtn5h1mBFNap7iypM3jpDyv4%2FUSP4YhY395W2e4CSS8u%2FMlWY8E%2F2frbywTC7%2BaR8M4uYIqgLZGh7hIWodoVdKF6t0ZGTBofDEyJbkTT2ZGY78YuqDsZyG%2BInW2xKIlxoV9HVF6bLWnHl%2BGCEK0eUwF%2B6Yq8VzXafkv2FK59OVmXlw7Ng4gdOyZtk%2BANfCtn4tauU%2BQ7jLFcrdKZiQt6FXK64SDTpqUBs%2Fck9f6OzztAHmfYb%2Fsh9cKQl84sANRFqrwkddpo%2BUPHqzpkuJTqYL8jdAUWHFDVjsblIVESXdywreEoEPYT1biBuCasATDTqLi
+广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东影视,http://gxdl-lhs.8866.org:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225801/index.m3u8?0.smil   
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226205/index.m3u8?0.smil
