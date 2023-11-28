@@ -42,7 +42,7 @@
 广东民生,
 广东体育,https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=1b710ced576a7478a26376c01249552f-pmLyF0G6FYk7qNbNs0Mv1npnizSb3ZQBQ7gFe0yq0MC%2Bj%2Fcwt3RGbfGOjYqJwwtB5osuYFP4EBnx2Kq7DoAv0QIpooXO9iayVi3WDIRhbGkAtk%2Bc3tNK6nbQ3K9HT%2F7ZWIw94CVvXnt0xpoROBPl9QUatdS7%2B97%2B3G3ebFV1PAXr6bNvaxkHNhS0a4wr9Od5gO2D2VrKI9eRJD3VRfsH%2BkhdWFYw51Olh7uvqLIhW%2FVO77Eg7jO20flI0tFTCP%2B7ZDXFJpFCDUnarVTizducwNNZnzc9%2BTvdz9nXeRogta14N2hxWChpARt9520xECRKRxieigSp6a5A%2F77BHOlICEBj08DE1vv2iM%2FGkoRzsgejfD%2BYyoNp3Vnf6Hd3MftcEDGim64rQMztFmD9yphtk4Yzee%2FVOZHaSq%2BIRdclZFd6Qd7UiMsfqlvmk1u3gr1J
 
-经济科教,
+经济科教, http://113.117.74.28:8081/hls/66/index.m3u8
 经济科教,
 经济科教,
 
