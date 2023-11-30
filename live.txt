@@ -35,20 +35,6 @@
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 广东珠江,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 
-广东公共, http://58.17.116.69:9906/tsfile/live/0001_2.m3u8
-广东新闻, http://58.17.116.69:9906/tsfile/live/0001_3.m3u8
-广东体育, http://58.17.116.69:9906/tsfile/live/0001_4.m3u8
-广东经济科教, http://58.17.116.69:9906/tsfile/live/0001_5.m3u8
-广东南方卫视, http://58.17.116.69:9906/tsfile/live/0001_6.m3u8
-广东影视, http://58.17.116.69:9906/tsfile/live/0001_7.m3u8
-广东少儿, http://58.17.116.69:9906/tsfile/live/0001_8.m3u8
-岭南戏曲, http://58.17.116.69:9906/tsfile/live/0001_9.m3u8
-广东移动, http://58.17.116.69:9906/tsfile/live/0001_10.m3u8
-广东纪录片,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1700835993-0-0-ff90746eb223f3d99099b8b5b2b0a9df
-广东新闻,http://gxdl-lhs.8866.org:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
-广东新闻,https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=b030754f77a1f95b7a58052621864c62-fbj6sqnvW2CWC8qm1L%2BD7Zg2aY9OPELhAmuNvNWC4kJ9wXqoLHHNCdMMqAPYLxLu9oKdZBr43XFPAGKRztafGyiL%2F9gH9yO5NySA%2BX3hDbe7JBdWGSmGWgHf6gsra6zzqJb30EUsY4JiHSiLGZmo%2BCuL5GWaWzsHICYkzPtrXijDp57JpqDSdA2PV2z4kpoUBbDHHJYE%2FyO8Q89HHyePfGoP8SEh6jV9cVl3Q5LCnXiTGFXV3mxRzTT7HIHvh6WEypb%2Bj2SaVKdOTJQu%2FZFiK7kEvhcxlEeKATwE3SLVxGuLOWHE4DjGQisuaKwxzsTdyRtwGcW54MH7qpyCJWgWFiYALaXJb8t43y%2FsyF3vb1zv4Y98xy6JhM%2F2e9cHooC6knTNELxVQTM7LXfcvl79kA%3D%3D
-
 广东民生,https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=760ba5005d4a1fa408f093c1511d8f1f-WOjpkcC20f6mTi0Tpaq7u0zLpZ6esuxAyjycuZP89UEhivhqYpOQRZEmn1ZYgVQ289OrUvRB5f3VHXbI6NO5ct8twuyRbLGhtHGRH79SMUYkD2f2K%2B12MvhFCLdA1S6Os5w7%2FZuiCTiNJNaQxQnHwB40a%2B4jF0YK9BedZsCa6ugVDKRkqc7cddSVCjE5OT0i3urUpH7cBwf7uM2DsgbV8c5z6VMh7V34w4VtHzK6FZ8CKv9m8zfCS6EcMsSEF4Cck7Nt8OcDoRPDW6ow2tfNOst6SB113iQWR4%2BgVjyEsmJW37GEO1dK%2B2er7sGDmR%2BNSyMZZlwnwg8R0vp8jrTlza67gT4UMrxGgaPz9j8QvPQFsDr%2FeWvTNVpQv%2FISxhjvsDZqIV6zeyUghBnPugmjdbk8MttktEY%2FjEHcK8pXRQJshGtzOcJjwIVWJ34Jn4zq
 广东民生,
 广东体育,https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=1b710ced576a7478a26376c01249552f-pmLyF0G6FYk7qNbNs0Mv1npnizSb3ZQBQ7gFe0yq0MC%2Bj%2Fcwt3RGbfGOjYqJwwtB5osuYFP4EBnx2Kq7DoAv0QIpooXO9iayVi3WDIRhbGkAtk%2Bc3tNK6nbQ3K9HT%2F7ZWIw94CVvXnt0xpoROBPl9QUatdS7%2B97%2B3G3ebFV1PAXr6bNvaxkHNhS0a4wr9Od5gO2D2VrKI9eRJD3VRfsH%2BkhdWFYw51Olh7uvqLIhW%2FVO77Eg7jO20flI0tFTCP%2B7ZDXFJpFCDUnarVTizducwNNZnzc9%2BTvdz9nXeRogta14N2hxWChpARt9520xECRKRxieigSp6a5A%2F77BHOlICEBj08DE1vv2iM%2FGkoRzsgejfD%2BYyoNp3Vnf6Hd3MftcEDGim64rQMztFmD9yphtk4Yzee%2FVOZHaSq%2BIRdclZFd6Qd7UiMsfqlvmk1u3gr1J
