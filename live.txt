@@ -27,7 +27,7 @@
 南方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226218/index.m3u8?0.smil
 南方卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-广东广东珠江,http://193.233.206.48:8090/live/rx1/1034/1e47225a863a415afb017eeb0188b8b0/index.m3u8
+广东珠江,http://193.233.206.48:8090/live/rx1/1034/1e47225a863a415afb017eeb0188b8b0/index.m3u8
 广东珠江, http://58.17.116.69:9906/tsfile/live/0001_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东珠江,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=becb1a7615b7fef21f2e4440f6169ada-Wgf627Jr1Gz3cCQbzj1EYHV4KJ%2F2p8utPk65cY7owJ%2Fer%2Fj537beu20fh3jVOWiYhdyLRa3kadlRjyV32BnOqWoa8iewIXvLLE7rt2iY7asba%2ByUr%2BwrnkmzowniaFtigS4BS0sQzd6pSYIMYhtWJCi4AOSuC8Q%2BxyTj4KBgnBlymYa%2BqsY6KGIqf4ineHqTpkZylC5TmUkWTTk10DGG0LAw%2BakvAXa8nkT79mInOq4POaTv4bZLduUUhtSx0LIssW7kff09kn735RHng9OsQ33zOv%2F3RfELuhueCe69APe5RcM72lZsdbLCcBMqaGJ0J9JILmukG2NGKS8Li4%2B46tZ1sZv8k6UzwZnBOUB51FXkoek4HMywA%2FUl5xszDGv9ZOuePw6vEbCAT%2BqnM7EDFg%3D%3D
