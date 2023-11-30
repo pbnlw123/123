@@ -1,11 +1,4 @@
 广东,#genre#
-广东卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226180/1.m3u8
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225803/index.m3u8?0.smil   
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226216/index.m3u8?0.smil
-广东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
-广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8
-广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
 广东卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 广东卫视https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=5d2fc44431bc8c599a4f3c1f4d8547fd-F0pRHbwW4lTIy%2FxsHrHBN8CPLAAwVvXJfPKF5BVuI92k%2F5OHNReohTUchWZ4OgbUTMGJxv2NUPaFttX2QizkRCiaz2hFBOzPCwQupCUWrVZ3VxqzJAi7PQAs5wLvMat%2FQdTLoG1c98UJ8Dzxo8dEUqS2eejK2DymZrPDkArpkRWTRFE7J1h6WSmNklRDXH%2FWd0JcCSfPUopJmYuNJjCWHdM6QTaPnbY%2FIaKIDt7VSiNqKP2tg9mDPIDcEYt%2FK7nEmQ3jvLHhiAhubhEj7HWJFd0f8hXTLu%2FkMnfjUPgN7N93MV7uwpfnsFy9%2By93NiTGnRmW2LGvIVEXfpbiuk5hNGZACMVBK1kA95aiWLNGQIgJcjgo3woaz8ZgEXDyUK7NjXpO%2FEPS5frDO%2B1sVg4LmSi71F8%2BuPQo%2BZtTvPXZDzhfH%2FSArA3HzezExi%2FDKroG
 广东卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -16,11 +9,10 @@
 广东卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 广东卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-广东卫视,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=gdws
 广东卫视,http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3 
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
+
 4K超高清,https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=6460d26903614be30c9d7f7d9fcd328d-iktzi%2BW3vwl6QMidL0AfUkeJWqgcCOIcA7LqD6s8pi6gjT%2FPnJLvl3WxH93pAXQ26kCDSqPFeEU1XlQMc17jTetgMBQv%2Fvy57OIzMsKKtNlr0dlH7zr0CA%2BhIvT9B9ET5pxeyfu6%2BPuMIPWiBDBnO0%2B03npU5CcqnlPkVGCIdiifqYkVHbJSmBUcma3iG1qQz0noNfzNS3hmoTl9nYzUTTJkwL9g7k9yIvjnpA%2BDTaFl9QSpST35bgZ9cAiHEpQ9Fci1HzqskafaVP4ALQsEJ93RVcG3hfY0NKeM%2FVbA1hlgq1Sd7fSLuyWDgT%2B%2BpxdQ7JRPPJmMXoNMe2u%2FoYneJtX0F2OXLIjE2yIW6a5QH1ovbPbXcPF0fC%2BlsG2G6dsmIXSn0Wv8%2FgfqDKZm%2B670HA%3D%3D
 南方卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
@@ -30,10 +22,8 @@
 广东珠江,http://193.233.206.48:8090/live/rx1/1034/1e47225a863a415afb017eeb0188b8b0/index.m3u8
 广东珠江, http://58.17.116.69:9906/tsfile/live/0001_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
-广东珠江,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=becb1a7615b7fef21f2e4440f6169ada-Wgf627Jr1Gz3cCQbzj1EYHV4KJ%2F2p8utPk65cY7owJ%2Fer%2Fj537beu20fh3jVOWiYhdyLRa3kadlRjyV32BnOqWoa8iewIXvLLE7rt2iY7asba%2ByUr%2BwrnkmzowniaFtigS4BS0sQzd6pSYIMYhtWJCi4AOSuC8Q%2BxyTj4KBgnBlymYa%2BqsY6KGIqf4ineHqTpkZylC5TmUkWTTk10DGG0LAw%2BakvAXa8nkT79mInOq4POaTv4bZLduUUhtSx0LIssW7kff09kn735RHng9OsQ33zOv%2F3RfELuhueCe69APe5RcM72lZsdbLCcBMqaGJ0J9JILmukG2NGKS8Li4%2B46tZ1sZv8k6UzwZnBOUB51FXkoek4HMywA%2FUl5xszDGv9ZOuePw6vEbCAT%2BqnM7EDFg%3D%3D
-广东珠江,http://tv.haoqu99.com/3/guangdong/gdzj.html
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
-广东珠江,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+
 
 广东民生,https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=760ba5005d4a1fa408f093c1511d8f1f-WOjpkcC20f6mTi0Tpaq7u0zLpZ6esuxAyjycuZP89UEhivhqYpOQRZEmn1ZYgVQ289OrUvRB5f3VHXbI6NO5ct8twuyRbLGhtHGRH79SMUYkD2f2K%2B12MvhFCLdA1S6Os5w7%2FZuiCTiNJNaQxQnHwB40a%2B4jF0YK9BedZsCa6ugVDKRkqc7cddSVCjE5OT0i3urUpH7cBwf7uM2DsgbV8c5z6VMh7V34w4VtHzK6FZ8CKv9m8zfCS6EcMsSEF4Cck7Nt8OcDoRPDW6ow2tfNOst6SB113iQWR4%2BgVjyEsmJW37GEO1dK%2B2er7sGDmR%2BNSyMZZlwnwg8R0vp8jrTlza67gT4UMrxGgaPz9j8QvPQFsDr%2FeWvTNVpQv%2FISxhjvsDZqIV6zeyUghBnPugmjdbk8MttktEY%2FjEHcK8pXRQJshGtzOcJjwIVWJ34Jn4zq
 广东民生,
@@ -47,8 +37,6 @@
 广东影视,http://gxdl-lhs.8866.org:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
-广东公共,http://9.zhxinda.xyz/gdtv.php?pk=1185
-广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 
