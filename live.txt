@@ -13,8 +13,8 @@
 广东少儿,http://119.145.89.210:9901/tsfile/live/1006_1.m3u8
 广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=1185
 广东网络电视,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
-广东,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
-广东,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
+广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
+广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 广东新闻,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广东卡通咪咕,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=
 
