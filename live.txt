@@ -12,6 +12,24 @@
 广东卫视,http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3 
 广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
+广东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
+广东卫视,http://cfss.cc/api/ysp/gdws.m3u8
+广东影视,,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
+广东影视,http://119.145.89.210:9901/tsfile/live/1002_1.m3u8
+广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
+广东珠江,http://119.145.89.210:9901/tsfile/live/1005_1.m3u8
+广东体育,http://119.145.89.210:9901/tsfile/live/1001_1.m3u8
+广东体育,http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
+广东大湾区,http://119.145.89.210:9901/tsfile/live/1004_1.m3u8
+广东少儿,http://119.145.89.210:9901/tsfile/live/1006_1.m3u8
+广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=1185
+广东网络电视,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+广东,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
+广东,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
+广东新闻,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+广东卡通咪咕,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=
 
 4K超高清,https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=6460d26903614be30c9d7f7d9fcd328d-iktzi%2BW3vwl6QMidL0AfUkeJWqgcCOIcA7LqD6s8pi6gjT%2FPnJLvl3WxH93pAXQ26kCDSqPFeEU1XlQMc17jTetgMBQv%2Fvy57OIzMsKKtNlr0dlH7zr0CA%2BhIvT9B9ET5pxeyfu6%2BPuMIPWiBDBnO0%2B03npU5CcqnlPkVGCIdiifqYkVHbJSmBUcma3iG1qQz0noNfzNS3hmoTl9nYzUTTJkwL9g7k9yIvjnpA%2BDTaFl9QSpST35bgZ9cAiHEpQ9Fci1HzqskafaVP4ALQsEJ93RVcG3hfY0NKeM%2FVbA1hlgq1Sd7fSLuyWDgT%2B%2BpxdQ7JRPPJmMXoNMe2u%2FoYneJtX0F2OXLIjE2yIW6a5QH1ovbPbXcPF0fC%2BlsG2G6dsmIXSn0Wv8%2FgfqDKZm%2B670HA%3D%3D
 南方卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
