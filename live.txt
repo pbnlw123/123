@@ -49,9 +49,9 @@
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 深圳卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225801/index.m3u8?0.smil   
-深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226205/index.m3u8?0.smil
+深圳卫视,http://218.13.170.98:9901/tsfile/live/1005_1.m3u8
+深圳卫视,http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv   
+深圳卫视,https://iptv.luas.edu.cn/liverespath/536ebe8b7165b25c8670e42eb8b7b4b6d178f158/a98f61eca9-0-0-c5ea37622772aa5d5e0d8838c68c61d9/index.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225801/index.m3u8?0.smil
 深圳卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225997/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
