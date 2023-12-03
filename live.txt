@@ -48,7 +48,8 @@
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
-
+深圳卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225801/index.m3u8?0.smil   
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226205/index.m3u8?0.smil
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225801/index.m3u8?0.smil
@@ -64,8 +65,6 @@
 深圳卫视,http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
 深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3 
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-深圳卫视,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=szws
 
 大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 深圳都市频道,
