@@ -1,5 +1,6 @@
 广东,#genre#
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+广东卫视,https://skype.serv00.net/itouch.php?id=gdws
 广东卫视,http://119.136.16.114:3333/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2172536660_1354602564/ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw2335730844_336951628/ott.mobaibox.com/PLTV/3/224/3221228566/index.m3u8?icpid=3&RTS=1674459760&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
@@ -22,6 +23,7 @@
 
 广东影视,http://119.136.16.114:3333/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+广东影视,https://skype.serv00.net/itouch.php?id=gdys
 广东影视,http://125.94.178.147:8686/rtp/239.77.0.11:5146
 广东影视,http://125.94.178.147:8686/rtp/239.77.0.217:5146
 广东影视,http://119.126.159.38:4000/udp/239.77.0.217:5146
@@ -58,6 +60,7 @@
 广东民生,
 
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
+广东新闻,https://skype.serv00.net/itouch.php?id=gdxw
 广东新闻,http://tduck.pinxuesoft.com:54321/udp/239.77.0.173:5146
 广东新闻,http://180.143.86.250:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://125.94.178.147:8686/rtp/239.77.0.4:5146
@@ -70,6 +73,7 @@
 广东新闻,http://49.235.110.121:9090/daili/gudo.php?id=gdxw
 
 经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
+经济科教,https://skype.serv00.net/itouch.php?id=gdjjkj
 经济科教,http://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
 经济科教,http://180.143.86.250:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 经济科教,http://125.94.178.147:8686/rtp/239.77.0.8:5146
