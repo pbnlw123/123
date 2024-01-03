@@ -1,6 +1,7 @@
 广东,#genre#
 
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2172536660_1354602564/ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+广东卫视,http://183.134.3.22:8888/newlive/live/hls/20/live.m3u8
 广东卫视,http://111.225.93.57:8800/hls/49/index.m3u8
 广东卫视,http://119.136.16.114:3333/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,https://skype.serv00.net/itouch.php?id=gdws
