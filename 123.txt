@@ -1,6 +1,7 @@
 广东,#genre#
 
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2172536660_1354602564/ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+广东卫视,http://nas147.myds.me:8888/udp/239.77.0.166:5146
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 广东卫视,http://222.223.119.21:8888/newlive/live/hls/21/live.m3u8
 广东卫视,http://183.134.3.22:8888/newlive/live/hls/20/live.m3u8
@@ -24,11 +25,12 @@
 广东卫视,
 广东卫视,http://tv.328326.com/iptv/cd.php?id=gdws
 
+广东影视,http://nas147.myds.me:8888/udp/239.77.0.217:5146
 广东影视,http://120.197.112.28:9901/tsfile/live/1026_1.m3u8
+广东影视,http://14.153.216.26:4022/rtp/239.77.0.217:5146
 广东影视,http://113.86.206.78:9999/tsfile/live/1024_1.m3u8
 广东影视,http://113.102.33.222:4022/rtp/239.77.0.217:5146
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
-广东影视,http://b.dszb.cc/gd.php?id=gdys
 广东影视,http://58.63.64.26:8888/rtp/239.77.0.217:5146
 广东影视,http://120.234.220.107:7000/udp/239.21.0.85:3680
 广东影视,http://125.94.178.147:8686/rtp/239.77.0.217:5146
@@ -40,11 +42,11 @@
 广东影视,http://ftxz.7766.org:808/hls/26/index.m3u8
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 
-
+广东珠江,http://nas147.myds.me:8888/udp/239.77.0.1:5146
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+广东珠江,http://120.197.112.28:9901/tsfile/live/1019_1.m3u8
 广东珠江,http://120.234.220.107:7000/udp/239.20.0.64:3144
 广东珠江,http://113.86.206.78:9999/tsfile/live/1005_1.m3u8
-广东珠江,http://120.197.112.28:9901/tsfile/live/1019_1.m3u8
 广东珠江,http://b.dszb.cc/gd.php?id=gdzj
 广东珠江,http://116.30.194.37:18888/rtp/239.77.0.1:5146
 广东珠江,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
@@ -58,7 +60,9 @@
 广东珠江,http://ftxz.7766.org:808/hls/20/index.m3u8
 广东珠江,
 
+广东民生,http://nas147.myds.me:8888/udp/239.77.0.225:5146
 广东民生,http://120.197.112.28:9901/tsfile/live/1020_1.m3u8
+广东民生,http://113.65.162.38:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
 广东民生,http://113.86.206.78:9999/tsfile/live/1036_1.m3u8
 广东民生,http://120.234.220.107:7000/udp/239.21.0.86:3684
@@ -73,7 +77,9 @@
 广东民生,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,
 
+广东新闻,http://nas147.myds.me:8888/udp/239.77.0.173:5146
 广东新闻,http://120.197.112.28:9901/tsfile/live/1022_1.m3u8
+广东新闻,http://113.65.162.38:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广东新闻,http://113.86.206.78:9999/tsfile/live/1029_1.m3u8
 广东新闻,http://116.30.194.37:18888/rtp/239.77.0.173:5146
@@ -87,15 +93,16 @@
 广东新闻,http://ftxz.7766.org:808/hls/21/index.m3u8
 广东新闻,http://49.235.110.121:9090/daili/gudo.php?id=gdxw
 
-经济科教,http://120.197.112.28:9901/tsfile/live/1023_1.m3u8
+经济科教,http://nas147.myds.me:8888/udp/239.77.0.85:5146
 经济科教,http://113.86.206.78:9999/tsfile/live/1021_1.m3u8
 经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
-经济科教,http://b.dszb.cc/gd.php?id=gdjjkjhd
+经济科教,http://120.197.112.28:9901/tsfile/live/1023_1.m3u8
+经济科教,http://nas147.myds.me:8888/udp/239.77.0.85:5146
 经济科教,http://b.dszb.cc/gd.php?id=gdjjkj
 经济科教,http://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
 
 
-
+深圳卫视,http://nas147.myds.me:8888/udp/239.77.0.130:5146
 深圳卫视,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227595/1.m3u8?HlsProfileId=
 深圳卫视,http://222.223.119.21:8888/newlive/live/hls/28/live.m3u8
 深圳卫视,http://119.136.16.114:3333/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -123,6 +130,7 @@
 深圳卫视,
 深圳卫视,
 
+深圳都市频道,http://nas147.myds.me:8888/udp/239.77.1.176:5146
 深圳都市频道,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市频道,http://119.136.16.114:3333/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳都市频道,http://183.62.98.214:9901/tsfile/live/1004_1.m3u8
@@ -130,31 +138,35 @@
 深圳都市频道,https://sztv-live.cutv.com/ZwxzUXr/500/s1uZ3x0.m3u8?sign=3e2cc35bf70201f7c74eb552efe6bc4b&t=656ca222
 深圳都市频道,
 
-深圳电视剧,http://119.136.16.114:3333/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳电视剧,http://gxdl-lhs.8866.org:85/tsfile/live/1113_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳电视剧,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
-深圳电视剧,https://sztv-live.cutv.com/4azbkoY/500/bro3z0k.m3u8?sign=5a3d4d7214fda7c4e05b69a1201c8632&t=656ca23f
+深圳电视剧,http://nas147.myds.me:8888/udp/239.77.1.125:5146
+深圳电视剧,http://58.63.64.26:8888/rtp/239.77.1.177:5146
+深圳电视剧,http://113.102.33.222:4022/rtp/239.77.1.177:5146
+深圳电视剧,http://113.102.33.222:4022/rtp/239.77.1.125:5146
+深圳电视剧,http://58.63.64.26:8888/rtp/239.77.1.125:5146
 深圳电视剧,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
 
+深圳公共频道,http://nas147.myds.me:8888/udp/239.77.1.178:5146
+深圳公共频道,http://58.63.64.26:8888/rtp/239.77.1.178:5146
+深圳公共频道,http://58.63.64.26:8888/rtp/239.77.1.126:5146
+深圳公共频道,http://113.102.33.222:4022/rtp/239.77.1.178:5146
+深圳公共频道,http://113.102.33.222:4022/rtp/239.77.1.126:5146
 
-深圳公共频道,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8
-深圳公共频道,http://116.30.194.37:18888/rtp/239.77.1.126:5146
-深圳公共频道,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8
 
 深圳移动频道,https://sztv-live.cutv.com/wDF6KJ3/500/z13w3F0.m3u8?sign=98b24cd09ecaece4eaeae750e0c58797&t=656ca2ad
 
-深圳众创,http://116.30.194.37:18888/rtp/239.77.1.247:5146
-深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
+深圳众创,http://nas147.myds.me:8888/udp/239.77.1.247:5146
 深圳众创,http://liveplay.sznews.com/66_showto_live/2645.m3u8
+深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
 
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 深圳东部,http://liveplay.sznews.com/66_showto_live/2646.m3u8
+深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 
-深圳龙岗,http://116.30.194.37:18888/rtp/239.77.1.223:5146
-深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
+深圳龙岗,http://nas147.myds.me:8888/udp/239.77.1.223:5146
+深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
 
-广东体育,http://120.197.112.28:9901/tsfile/live/1044_1.m3u8
+广东体育,http://nas147.myds.me:8888/udp/239.77.0.112:5146
+广东体育,http://113.65.162.38:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://119.136.16.114:3333/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://180.143.86.250:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
@@ -163,7 +175,7 @@
 广东体育,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 广东体育,http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,
-广东体育,
+
 
 广东大湾区,http://180.143.86.250:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东大湾区,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
