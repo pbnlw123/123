@@ -161,8 +161,8 @@
 深圳东部,http://liveplay.sznews.com/66_showto_live/2646.m3u8
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 深圳龙岗,http://nas147.myds.me:8888/udp/239.77.1.223:5146
+深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
 
 广东体育,http://nas147.myds.me:8888/udp/239.77.0.112:5146
