@@ -64,6 +64,9 @@
 梅州-1,http://119.135.1.46:9999/udp/239.253.43.123:5146
 梅州-2,http://119.135.1.46:9999/udp/239.253.43.124:5146
 
+梅州-1,http://119.135.1.46:4022/rtp/239.253.43.123:5146
+梅州-2,http://119.135.1.46:4022/rtp/239.253.43.124:5146
+
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw2335730844_336951628/ott.mobaibox.com/PLTV/3/224/3221228566/index.m3u8?icpid=3&RTS=1674459760&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1749616194_1855037741/ott.mobaibox.com/PLTV/3/224/3221227249/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw200922983_-1894712676/ott.mobaibox.com/PLTV/3/224/3221227591/index.m3u8?icpid=3&RTS=1674380316&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
