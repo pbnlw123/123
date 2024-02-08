@@ -167,11 +167,10 @@
 广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 
 央视,#genre#
-CCTV1,http://qyxydn.cn:1233/rtp/239.77.1.17:5146
+
 CCTV1,http://qyxydn.cn:1233/rtp/239.77.1.144:5146
 CCTV1,http://qyxydn.cn:1233/rtp/239.77.0.86:5146
 CCTV2,http://qyxydn.cn:1233/rtp/239.77.1.158:5146
-CCTV2,http://qyxydn.cn:1233/rtp/239.253.43.17:5146
 CCTV3,http://qyxydn.cn:1233/rtp/239.77.0.169:5146
 CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.163:5146
 CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.166:5146
