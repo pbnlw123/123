@@ -387,6 +387,35 @@ CCTV第一剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/
 CCTV风云音乐,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 CCTV风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 
+CCTV1,http://qyxydn.cn:1233/rtp/239.77.1.144:5146
+CCTV1,http://qyxydn.cn:1233/rtp/239.77.0.86:5146
+CCTV2,http://qyxydn.cn:1233/rtp/239.77.1.158:5146
+CCTV3,http://qyxydn.cn:1233/rtp/239.77.0.169:5146
+CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.163:5146
+CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.166:5146
+CCTV4,http://qyxydn.cn:1233/rtp/239.77.0.78:5146
+CCTV5,http://qyxydn.cn:1233/rtp/239.77.0.170:5146
+CCTV5+,http://qyxydn.cn:1233/rtp/239.77.0.87:5146
+CCTV5+,http://qyxydn.cn:1233/rtp/239.77.1.31:5146
+CCTV6,http://qyxydn.cn:1233/rtp/239.77.0.171:5146
+CCTV7,http://qyxydn.cn:1233/rtp/239.77.1.159:5146
+CCTV7,http://qyxydn.cn:1233/rtp/239.77.1.167:5146
+CCTV8,http://qyxydn.cn:1233/rtp/239.77.0.172:5146
+CCTV9,http://qyxydn.cn:1233/rtp/239.77.1.160:5146
+CCTV10,http://qyxydn.cn:1233/rtp/239.77.1.113:5146
+CCTV11,http://qyxydn.cn:1233/rtp/239.77.1.238:5146
+CCTV12,http://qyxydn.cn:1233/rtp/239.77.1.109:5146
+CCTV13,http://qyxydn.cn:1233/rtp/239.77.0.188:5146
+CCTV13,http://qyxydn.cn:1233/rtp/239.253.43.196:5146
+CCTV14,http://qyxydn.cn:1233/rtp/239.77.1.161:5146
+CCTV15,http://qyxydn.cn:1233/rtp/239.77.1.239:5146
+CCTV16,http://qyxydn.cn:1233/rtp/239.77.1.76:5146
+CCTV17,http://qyxydn.cn:1233/rtp/239.77.1.121:5146
+CCTV17,http://qyxydn.cn:1233/rtp/239.77.0.198:5146
+CCTV4K,http://qyxydn.cn:1233/rtp/239.77.0.194:5146
+CCTV4K,http://qyxydn.cn:1233/rtp/239.77.0.174:5146
+
+
 CCTV1,http://ruoshui.space:554/udp/239.77.0.129:5146
 CCTV1,http://ruoshui.space:554/udp/239.77.1.17:5146
 CCTV1,http://ruoshui.space:554/udp/239.77.1.144:5146
@@ -494,33 +523,25 @@ CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 测试,#genre#
-CCTV1,http://qyxydn.cn:1233/rtp/239.77.1.144:5146
-CCTV1,http://qyxydn.cn:1233/rtp/239.77.0.86:5146
-CCTV2,http://qyxydn.cn:1233/rtp/239.77.1.158:5146
-CCTV3,http://qyxydn.cn:1233/rtp/239.77.0.169:5146
-CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.163:5146
-CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.166:5146
-CCTV4,http://qyxydn.cn:1233/rtp/239.77.0.78:5146
-CCTV5,http://qyxydn.cn:1233/rtp/239.77.0.170:5146
-CCTV5+,http://qyxydn.cn:1233/rtp/239.77.0.87:5146
-CCTV5+,http://qyxydn.cn:1233/rtp/239.77.1.31:5146
-CCTV6,http://qyxydn.cn:1233/rtp/239.77.0.171:5146
-CCTV7,http://qyxydn.cn:1233/rtp/239.77.1.159:5146
-CCTV7,http://qyxydn.cn:1233/rtp/239.77.1.167:5146
-CCTV8,http://qyxydn.cn:1233/rtp/239.77.0.172:5146
-CCTV9,http://qyxydn.cn:1233/rtp/239.77.1.160:5146
-CCTV10,http://qyxydn.cn:1233/rtp/239.77.1.113:5146
-CCTV11,http://qyxydn.cn:1233/rtp/239.77.1.238:5146
-CCTV12,http://qyxydn.cn:1233/rtp/239.77.1.109:5146
-CCTV13,http://qyxydn.cn:1233/rtp/239.77.0.188:5146
-CCTV13,http://qyxydn.cn:1233/rtp/239.253.43.196:5146
-CCTV14,http://qyxydn.cn:1233/rtp/239.77.1.161:5146
-CCTV15,http://qyxydn.cn:1233/rtp/239.77.1.239:5146
-CCTV16,http://qyxydn.cn:1233/rtp/239.77.1.76:5146
-CCTV17,http://qyxydn.cn:1233/rtp/239.77.1.121:5146
-CCTV17,http://qyxydn.cn:1233/rtp/239.77.0.198:5146
-CCTV4K,http://qyxydn.cn:1233/rtp/239.77.0.194:5146
-CCTV4K,http://qyxydn.cn:1233/rtp/239.77.0.174:5146
+cctv1-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv2-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv3-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv4-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv5-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv5+        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv6-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv7-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv8-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv9-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv10-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv11-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv12-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv13-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv14-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv15-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv16-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+cctv17-HD        http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 
 卫视,#genre#
