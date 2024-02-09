@@ -145,55 +145,6 @@
 广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 
 央视,#genre#
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8 
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8 
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8 
-CCTV3,
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8 
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8 
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8 
-CCTV6,
-CCTV7,
-CCTV8,
-CCTV9, 
-CCTV10, 
-CCTV11,
-CCTV12,
-CCTV13,
-CCTV14,
-CCTV15,
-CCTV16,
-CCTV17,
-CCTV4K,
-
-
-CCTV1,http://qyxydn.cn:1233/rtp/239.77.1.144:5146
-CCTV1,http://qyxydn.cn:1233/rtp/239.77.0.86:5146
-CCTV2,http://qyxydn.cn:1233/rtp/239.77.1.158:5146
-CCTV3,http://qyxydn.cn:1233/rtp/239.77.0.169:5146
-CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.163:5146
-CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.166:5146
-CCTV4,http://qyxydn.cn:1233/rtp/239.77.0.78:5146
-CCTV5,http://qyxydn.cn:1233/rtp/239.77.0.170:5146
-CCTV5+,http://qyxydn.cn:1233/rtp/239.77.0.87:5146
-CCTV5+,http://qyxydn.cn:1233/rtp/239.77.1.31:5146
-CCTV6,http://qyxydn.cn:1233/rtp/239.77.0.171:5146
-CCTV7,http://qyxydn.cn:1233/rtp/239.77.1.159:5146
-CCTV7,http://qyxydn.cn:1233/rtp/239.77.1.167:5146
-CCTV8,http://qyxydn.cn:1233/rtp/239.77.0.172:5146
-CCTV9,http://qyxydn.cn:1233/rtp/239.77.1.160:5146
-CCTV10,http://qyxydn.cn:1233/rtp/239.77.1.113:5146
-CCTV11,http://qyxydn.cn:1233/rtp/239.77.1.238:5146
-CCTV12,http://qyxydn.cn:1233/rtp/239.77.1.109:5146
-CCTV13,http://qyxydn.cn:1233/rtp/239.77.0.188:5146
-CCTV13,http://qyxydn.cn:1233/rtp/239.253.43.196:5146
-CCTV14,http://qyxydn.cn:1233/rtp/239.77.1.161:5146
-CCTV15,http://qyxydn.cn:1233/rtp/239.77.1.239:5146
-CCTV16,http://qyxydn.cn:1233/rtp/239.77.1.76:5146
-CCTV17,http://qyxydn.cn:1233/rtp/239.77.1.121:5146
-CCTV17,http://qyxydn.cn:1233/rtp/239.77.0.198:5146
-CCTV4K,http://qyxydn.cn:1233/rtp/239.77.0.194:5146
-CCTV4K,http://qyxydn.cn:1233/rtp/239.77.0.174:5146
 
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964691378_587544707/ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8?icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964843858_1182658871/ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8?icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -251,7 +202,6 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw87277525_152848
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw87480947_1225841912/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8?icpid=3&RTS=1674380202&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1532706224_1804828586/ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8?icpid=3&RTS=1674385943&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1371056101_254066856/ott.mobaibox.com/PLTV/3/224/3221228492/index.m3u8?icpid=3&RTS=1674463090&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1743796407_916497993/ott.mobaibox.com/PLTV/3/224/3221227480/index.m3u8?icpid=3&RTS=1674386154&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw89629056_1585028436/ott.mobaibox.com/PLTV/3/224/3221227631/index.m3u8?icpid=3&RTS=1674380205&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
@@ -368,14 +318,32 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw259647455_1559913959/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1668595054&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 
-
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 
 CCTV9,https://epg.pw/stream/8a99231be509bad4d51d74a2627680b3a42f0a75872d75a0089ca362c99fa7fb.m3u8
 CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000 
 
-
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8 
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8 
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8 
+CCTV3,
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8 
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8 
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8 
+CCTV6,
+CCTV7,
+CCTV8,
+CCTV9, 
+CCTV10, 
+CCTV11,
+CCTV12,
+CCTV13,
+CCTV14,
+CCTV15,
+CCTV16,
+CCTV17,
+CCTV4K,
 
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
@@ -526,9 +494,33 @@ CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 测试,#genre#
-
-广东珠江高清,http://58.252.12.164:8000/udp/239.77.0.1:5146
-广东珠江超清,http://58.252.12.164:8000/udp/239.77.0.114:5146
+CCTV1,http://qyxydn.cn:1233/rtp/239.77.1.144:5146
+CCTV1,http://qyxydn.cn:1233/rtp/239.77.0.86:5146
+CCTV2,http://qyxydn.cn:1233/rtp/239.77.1.158:5146
+CCTV3,http://qyxydn.cn:1233/rtp/239.77.0.169:5146
+CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.163:5146
+CCTV4,http://qyxydn.cn:1233/rtp/239.77.1.166:5146
+CCTV4,http://qyxydn.cn:1233/rtp/239.77.0.78:5146
+CCTV5,http://qyxydn.cn:1233/rtp/239.77.0.170:5146
+CCTV5+,http://qyxydn.cn:1233/rtp/239.77.0.87:5146
+CCTV5+,http://qyxydn.cn:1233/rtp/239.77.1.31:5146
+CCTV6,http://qyxydn.cn:1233/rtp/239.77.0.171:5146
+CCTV7,http://qyxydn.cn:1233/rtp/239.77.1.159:5146
+CCTV7,http://qyxydn.cn:1233/rtp/239.77.1.167:5146
+CCTV8,http://qyxydn.cn:1233/rtp/239.77.0.172:5146
+CCTV9,http://qyxydn.cn:1233/rtp/239.77.1.160:5146
+CCTV10,http://qyxydn.cn:1233/rtp/239.77.1.113:5146
+CCTV11,http://qyxydn.cn:1233/rtp/239.77.1.238:5146
+CCTV12,http://qyxydn.cn:1233/rtp/239.77.1.109:5146
+CCTV13,http://qyxydn.cn:1233/rtp/239.77.0.188:5146
+CCTV13,http://qyxydn.cn:1233/rtp/239.253.43.196:5146
+CCTV14,http://qyxydn.cn:1233/rtp/239.77.1.161:5146
+CCTV15,http://qyxydn.cn:1233/rtp/239.77.1.239:5146
+CCTV16,http://qyxydn.cn:1233/rtp/239.77.1.76:5146
+CCTV17,http://qyxydn.cn:1233/rtp/239.77.1.121:5146
+CCTV17,http://qyxydn.cn:1233/rtp/239.77.0.198:5146
+CCTV4K,http://qyxydn.cn:1233/rtp/239.77.0.194:5146
+CCTV4K,http://qyxydn.cn:1233/rtp/239.77.0.174:5146
 
 
 卫视,#genre#
