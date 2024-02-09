@@ -527,6 +527,8 @@ CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 
 测试,#genre#
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
+广东珠江高清,http://58.252.12.164:8000/udp/239.77.0.1:5146
+广东珠江超清,http://58.252.12.164:8000/udp/239.77.0.114:5146
 
 
 卫视,#genre#
