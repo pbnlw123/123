@@ -186,7 +186,7 @@ CCTV14,http://36.156.208.58/liveali-tpgq.CCTV.cn/live/CCTV14.m3u8
 CCTV15,http://36.156.208.58/liveali-tpgq.CCTV.cn/live/CCTV15.m3u8
 CCTV16,http://36.156.208.58/liveali-tpgq.CCTV.cn/live/CCTV16.m3u8
 CCTV17,http://36.156.208.58/liveali-tpgq.CCTV.cn/live/CCTV17.m3u8
-CCTV4k,http://36.156.208.58/liveali-tpgq.CCTV.cn/live/CCTV4k.m3u8
+CCTV4K,http://36.156.208.58/liveali-tpgq.CCTV.cn/live/CCTV4k.m3u8
 CCTV4K,https://epg.pw/stream/f207db30ca721ab30d992aa5eb745ebe1c55c987cf51181985ea53f42e586ee9.m3u8
 CCTV4K,https://epg.pw/stream/3a56a84746130bd7de78e2a7a8d20c043c6f01137636ff502c49fe4c996b82b8.m3u8
 
