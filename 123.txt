@@ -426,6 +426,13 @@
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 
+广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
+广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
+广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
+广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
+广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
+广州南国都市,http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
+
 
 
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw2335730844_336951628/ott.mobaibox.com/PLTV/3/224/3221228566/index.m3u8?icpid=3&RTS=1674459760&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
